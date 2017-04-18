@@ -34,17 +34,17 @@ The application is accepted if:
 
 ![anatomy](anatomy/AnatomyJava.png)
 
-#### Your answer:
-[add your answer here]   
-1:   
-2:   
-3:   
-4:   
-5:   
-6:   
-7:   
-8:   
+#### Your answer:  
+1: modifiers   
+2: return type (can be void(no return) or any variable)
+3: name of the method   
+4: parameter data type
+5: parameter name
+6: declaration of a variable
+7: body of the method
+8: return statement
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
-[add your answer here]
+Constructors are used to create objects of a certain class. They can be empty (no parameters given) or they can have parameters.
+If not given any other contructor with at least one paramenter, every class has a default empty constructor. It is possible, to use more constructors for the same objects, with different parameters. 
