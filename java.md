@@ -35,14 +35,15 @@ The application is accepted if:
 ![anatomy](anatomy/AnatomyJava.png)
 
 #### Your answer:  
-1: modifiers   
+1: modifiers
 2: return type (can be void(no return) or any variable)
-3: name of the method   
+3: name of the method
 4: parameter data type
 5: parameter name
 6: declaration of a variable
 7: body of the method
 8: return statement
+
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
