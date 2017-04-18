@@ -51,5 +51,16 @@ public class Deck {
     }
   }
 
+  List<Card> shuffle() {
+    List<Card> shuffledDeck = new ArrayList<>();
+    Collections.shuffle(deck);
+    deck = shuffledDeck;
+    return deck;
+  }
 
+  Card draw() {
+    Card drawn = deck.get(0);
+    deck.remove(deck.get(0));
+    return drawn;
+  }
 }
