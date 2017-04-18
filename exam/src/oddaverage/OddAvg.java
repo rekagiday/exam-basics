@@ -10,11 +10,6 @@ public class OddAvg {
 
   List<Integer> numbers;
 
-  public static void main(String[] args) {
-    List<Integer> myList = new ArrayList<>();
-    oddAverage(myList);
-  }
-
   public int oddAverage(List<Integer> numbers) {
     this.numbers = numbers;
     List<Integer> oddNumbers = new ArrayList<>();
