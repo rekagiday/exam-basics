@@ -48,4 +48,4 @@ The application is accepted if:
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
 Constructors are used to create objects of a certain class. They can be empty (no parameters given) or they can have parameters.
-If not given any other contructor with at least one paramenter, every class has a default empty constructor. It is possible, to use more constructors for the same objects, with different parameters. 
+If no other constructor with at least one parameter is given, every object has a default empty constructor. It is possible to use more constructors for the same objects, with different parameters. 
